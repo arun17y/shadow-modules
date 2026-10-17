@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "download_url": "https://github.com/arun17y/shadow-modules/releases/download/v1.0.0/Premuim.exe",
-  "sha256": "4AC97162FB27B0264DC9830C0E7C08250183B1E90D777CCE05040A4E6702F8F0",
-  "changelog": "Shadow Cheats Multiloader v1.0.0 - Stable build with integrated auto-updater, native DirectX 11 rendering, and dual-layer security verification.",
+  "sha256": "D2763311DF6B0EF624A8DAC867E3BB6FD4367B305CE30AD12EAC700D2677A183",
+  "changelog": "Shadow Cheats Multiloader v1.0.0 - Stable build with KeyAuth 1.3 authentication and DirectX 11 engine.",
   "asset_name": "Premuim.exe"
 }
