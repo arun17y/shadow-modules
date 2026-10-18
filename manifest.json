@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "download_url": "https://raw.githubusercontent.com/arun17y/shadow-modules/main/Premuim.exe",
-  "sha256": "707C00A864B2156F3C14CA1B2F536AB03A9E1445DD58378CC44A2615D40423E4",
-  "changelog": "Shadow Cheats Multiloader v1.0.1 - Mandatory security and stability update.",
+  "sha256": "FE87EF310B3B449AE4CD66B09BDBF559F1B8A55D2860674B37B2502BD466CACF",
+  "changelog": "Shadow Cheats Multiloader v1.0.1 - Redesigned Authorization UI style modal with seamless progress bar.",
   "asset_name": "Premuim.exe"
 }
