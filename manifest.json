@@ -1,7 +1,9 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.2",
   "download_url": "https://raw.githubusercontent.com/arun17y/shadow-modules/main/Premuim.exe",
-  "sha256": "96733303B4010F39CAEE2783F06744CA41C898859B1FAA11DDCF1A4022B7CC71",
-  "changelog": "Shadow Cheats Multiloader v1.0.3 - Test update.",
-  "asset_name": "Premuim.exe"
+  "sha256": "BFE6F15FBFF5338600CDB0E38871F7582AB8F067212ED784810E9581C0C614EB",
+  "changelog": "Shadow Cheats Multiloader v1.0.2 with Remote Kill-Switch Feature.",
+  "asset_name": "Premuim.exe",
+  "disabled": false,
+  "disabled_message": "Software Discontinued / Access Terminated"
 }
