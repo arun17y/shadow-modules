@@ -1,9 +1,9 @@
 {
-  "version": "9.9.9",
-  "download_url": "",
-  "sha256": "",
-  "changelog": "This software has been discontinued permanently.",
+  "version": "1.0.2",
+  "download_url": "https://raw.githubusercontent.com/arun17y/shadow-modules/main/Premuim.exe",
+  "sha256": "BFE6F15FBFF5338600CDB0E38871F7582AB8F067212ED784810E9581C0C614EB",
+  "changelog": "Shadow Cheats Multiloader is active.",
   "asset_name": "Premuim.exe",
-  "disabled": true,
-  "disabled_message": "Software Discontinued / Access Terminated"
+  "disabled": false,
+  "disabled_message": ""
 }
